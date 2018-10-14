@@ -1,3 +1,7 @@
+TODO: remove these lines
+[WIP]: Django2-compatibility branch, iteration 1: FKs
+
+
 Приложение для работы с базой данных ФИАС в Django
 
 Основные возможности
