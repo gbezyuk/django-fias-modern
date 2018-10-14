@@ -1,3 +1,6 @@
+TODO: Remove these lines
+This is a WIP branch for better project docs
+
 Приложение для работы с базой данных ФИАС в Django
 
 Основные возможности
