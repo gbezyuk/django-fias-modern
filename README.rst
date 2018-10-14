@@ -1,5 +1,5 @@
 TODO: remove these lines
-[WIP]: Django2-compatibility branch, general branch
+[WIP]: Django2-compatibility branch, URLconf fixes
 
 Приложение для работы с базой данных ФИАС в Django
 
